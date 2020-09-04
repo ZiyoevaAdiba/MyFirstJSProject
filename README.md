@@ -15,3 +15,7 @@ My solution has drawbacks.These are:
 2. Operators can be entered in the beginning of my equation
 
 Plans: I'll work on my drawbacks and update it soon ! (if anyone wants)
+
+Here is how it looks like: 
+
+![](images/Снимок%20экрана%202020-09-04%20в%2015.59.30.png)
