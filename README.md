@@ -17,5 +17,14 @@ My solution has drawbacks.These are:
 Plans: I'll work on my drawbacks and update it soon ! (if anyone wants)
 
 Here is how it looks like: 
+1. where nothing is entered:
+![](images/Снимок%20экрана%202020-09-04%20в%2016.00.42.png)
 
+2. where equation is entered:
+![](images/Снимок%20экрана%202020-09-04%20в%2016.00.28.png)
+
+3. where equal sign is entered:
+first raw is equation
+second is the result of calculation
 ![](images/Снимок%20экрана%202020-09-04%20в%2015.59.30.png)
+
