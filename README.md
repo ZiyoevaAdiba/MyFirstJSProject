@@ -24,13 +24,13 @@ Here is how it looks like:
 
 2. when equation is entered:
 <p align="center">
-   <img src="images/Снимок%20экрана%202020-09-04%20в%2016.00.28.png" width="300" height="300">
+   <img src="images/Снимок%20экрана%202020-09-04%20в%2016.00.28.png" width="400" height="400">
 </p>
 
 3. when equal sign is entered:
 first raw is equation
 second is the result of calculation
 <p align="center">
-![](images/Снимок%20экрана%202020-09-04%20в%2015.59.30.png)
+   <img src="images/Снимок%20экрана%202020-09-04%20в%2015.59.30.png" width="400">
 </p>
 
