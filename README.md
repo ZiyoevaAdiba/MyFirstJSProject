@@ -28,10 +28,8 @@ Here is how it looks like:
 </p>
 
 3. when equal sign is entered:
-
-first raw is equation
-
-second is the result of calculation
+   first raw is equation
+   second is the result of calculation
 <p align="center">
    <img src="images/Снимок%20экрана%202020-09-04%20в%2015.59.30.png" width="400">
 </p>
