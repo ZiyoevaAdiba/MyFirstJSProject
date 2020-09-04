@@ -22,7 +22,7 @@ Here is how it looks like:
 
 
 2. when equation is entered:
-<img src='images/Снимок%20экрана%202020-09-04%20в%2016.00.28.png' width="300" height="300")
+<img src="images/Снимок%20экрана%202020-09-04%20в%2016.00.28.png" width="300" height="300")
 
 3. when equal sign is entered:
 first raw is equation
