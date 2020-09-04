@@ -18,7 +18,9 @@ Plans: I'll work on my drawbacks and update it soon ! (if anyone wants)
 
 Here is how it looks like: 
 1. when nothing is entered:
-![test image size](images/Снимок%20экрана%202020-09-04%20в%2016.00.42.png){:height="10%" width="10%"}
+![](images/Снимок%20экрана%202020-09-04%20в%2016.00.42.png)
+<img src="images/Снимок%20экрана%202020-09-04%20в%2016.00.42.png" width="400" height="400">
+
 
 2. when equation is entered:
 ![](images/Снимок%20экрана%202020-09-04%20в%2016.00.28.png)
